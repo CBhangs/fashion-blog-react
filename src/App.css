@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+}
+.articleText {
+  font-size: xx-large;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  color: tomato;
+  text-decoration: underline;
+  font-size: larger;
+}
